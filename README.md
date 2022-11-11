@@ -1,7 +1,7 @@
-                                                              #####Hi there 👋 I'm Gabriel
+                                                              ##### Hi there 👋 I'm Gabriel
                                                                   Full stack developer from 🇵🇭
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyangzon)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyangzon&theme=tokyonight&show_icons=true&layout=compact)
 
 <p>&nbsp;</p>
 
