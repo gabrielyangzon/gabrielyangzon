@@ -5,11 +5,7 @@
 
 <p>&nbsp;</p>
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,cs)
-
-<p>&nbsp;</p>
-
-![My Skills](https://skillicons.dev/icons?i=html,css,angular,react)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,cs,html,css,angular,react&theme=dark&perline=5)
 
 <p>&nbsp;</p>
 
