@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Gabriel
 Full stack developer from 🇵🇭
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyangzon)](https://github.com/gabrielyangzon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyangzon)]
 
-[!](https://www.codewars.com/users/gabrielyangzon/badges/large)
+[![Codewars](https://www.codewars.com/users/gabrielyangzon/badges/large)]
 <!--
 **gabrielyangzon/gabrielyangzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
