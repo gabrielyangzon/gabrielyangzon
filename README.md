@@ -2,8 +2,10 @@
                                                                   Full stack developer from 🇵🇭
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyangzon)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<br/>
 ![Codewars](https://www.codewars.com/users/gabrielyangzon/badges/micro)
 
 <!--
