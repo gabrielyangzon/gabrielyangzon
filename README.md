@@ -3,10 +3,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyangzon)
 
-<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<br/>
-![Codewars](https://www.codewars.com/users/gabrielyangzon/badges/micro)
+<p>&nbsp;</p>
+
+![My Skills](https://skillicons.dev/icons?i=js,typescript,cs)
+
+<p>&nbsp;</p>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,angular,react)
+
+<p>&nbsp;</p>
+
+
+[![Codewars](https://www.codewars.com/users/gabrielyangzon/badges/small)](https://www.codewars.com/users/gabrielyangzon)
 
 <!--
 **gabrielyangzon/gabrielyangzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
