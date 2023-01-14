@@ -10,8 +10,9 @@ Full stack developer from 🇵🇭
 
 <p>&nbsp;</p>
 
-- 🔭 I’m currently working on - SQL Net Core API / Angular Stack
+- 🔭 I’m currently working on - SQL / Net Core API / Angular Stack
 - - 📫 How to reach me: https://www.linkedin.com/in/gabrielyangzon/
+- - 🌱 I’m currently learning - React / NextJS
 
 [![Codewars](https://www.codewars.com/users/gabrielyangzon/badges/small)](https://www.codewars.com/users/gabrielyangzon)
 
