@@ -2,7 +2,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there I'm Gabriel
 Full stack developer from 🇵🇭
 
-https://gabrielyangzon.github.io
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyangzon&theme=tokyonight&show_icons=true&layout=compact)
 
