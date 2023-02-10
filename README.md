@@ -8,7 +8,7 @@ Full stack developer from 🇵🇭
 
 <p>&nbsp;</p>
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,cs,html,css,angular,react&theme=dark&perline=3)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,cs,html,css,angular,react,nodejs&theme=dark&perline=3)
 
 <p>&nbsp;</p>
 
