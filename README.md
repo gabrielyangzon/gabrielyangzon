@@ -2,7 +2,9 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  Hi there I'm Gabriel
 Full stack developer from 🇵🇭
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyangzon&theme=tokyonight&show_icons=true&layout=compact)
 
