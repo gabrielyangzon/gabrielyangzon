@@ -3,14 +3,14 @@
 Full stack developer from 🇵🇭
 
 
- # <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielyangzon&theme=tokyonight&show_icons=true&layout=compact)
 
 <p>&nbsp;</p>
 
-![My Skills](https://skillicons.dev/icons?i=js,typescript,cs,html,css,angular,react,nodejs,dotnet&theme=dark&perline=3)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,cs,html,css,bootstrap,angular,react,nodejs,dotnet,aws&theme=dark&perline=3)
 
 <p>&nbsp;</p>
 
